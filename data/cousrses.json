@@ -2,6 +2,7 @@
     {
         "id": "1",
         "name": "The Complete Web Developer Course",
+        "img":"https://i.ibb.co/yFZrr43/web-development.jpg",
         "tag": "Web Developer",
         "price": 200,
         "instructor": {
@@ -25,6 +26,7 @@
     {
         "id": "2",
         "name": "Graphic Design",
+        "img":"https://i.ibb.co/F7Br29X/Graphic-design.png",
         "tag": "Graphic Design",
         "price": 250,
         "instructor": {
@@ -50,6 +52,7 @@
     {
         "id":"3",
         "name": "Android App Development Course",
+        "img":"https://i.ibb.co/pwV7bS3/Android-App-Development.png",
         "tag": "App Development",
         "price": 300,
         "instructor": {
@@ -76,6 +79,7 @@
     {
         "id": "4",
         "name": "Be a WordPress pro",
+        "img":"https://i.ibb.co/FhyK6Ww/Word-Press.jpg",
         "tag": "WordPress",
         "price": 150,
         "instructor": {
@@ -99,6 +103,7 @@
     {
         "id": "5",
         "name": "Master of Data Entry",
+        "img":"https://i.ibb.co/SRLDh4j/Data-Entry.jpg",
         "tag": "Data Entry",
         "price": 100,
         "instructor": {
@@ -123,6 +128,7 @@
     {
         "id": "6",
         "name": "SEO Course",
+        "img":"https://i.ibb.co/BLq1j8n/SEO-Course.jpg",
         "tag": "SEO",
         "price": 150,
         "instructor": {
