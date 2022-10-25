@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "The Complete Web Developer Course",
         "tag": "Web Developer",
         "price": 200,
@@ -23,7 +23,7 @@
         "ratings": 5
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Graphic Design",
         "tag": "Graphic Design",
         "price": 250,
@@ -48,7 +48,7 @@
         "ratings": 5
     },
     {
-        "id": 3,
+        "id":"3",
         "name": "Android App Development Course",
         "tag": "App Development",
         "price": 300,
@@ -74,7 +74,7 @@
         "ratings": 4
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Be a WordPress pro",
         "tag": "WordPress",
         "price": 150,
@@ -97,7 +97,7 @@
         "ratings": 5
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Master of Data Entry",
         "tag": "Data Entry",
         "price": 100,
@@ -121,7 +121,7 @@
         "ratings": 4
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "SEO Course",
         "tag": "SEO",
         "price": 150,
