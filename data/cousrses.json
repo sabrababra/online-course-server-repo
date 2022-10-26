@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "The Complete Web Developer Course",
+        "name": "Complete Web Developer",
         "img":"https://i.ibb.co/yFZrr43/web-development.jpg",
         "tag": "Web Developer",
         "price": 200,
@@ -51,7 +51,7 @@
     },
     {
         "id":"3",
-        "name": "Android App Development Course",
+        "name": "Android App Development",
         "img":"https://i.ibb.co/pwV7bS3/Android-App-Development.png",
         "tag": "App Development",
         "price": 300,
@@ -74,7 +74,7 @@
         "lectures": 25,
         "duration": "15 hours",
         "level": "Beginner",
-        "ratings": 4
+        "ratings": 5
     },
     {
         "id": "4",
@@ -123,7 +123,7 @@
         "lectures": 30,
         "duration": "40 hours",
         "level": "Beginner",
-        "ratings": 4
+        "ratings": 5
     },
     {
         "id": "6",
